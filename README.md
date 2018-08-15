@@ -38,6 +38,10 @@
   - 1. [ ] Read about PSNR theory 
   - 2. [ ] Analysis GAN loss in different scalers 
 
+####
+  - save and load the approximator 
+  - 
+
 # PDSR Prior work
 Submission to the PIRM2018 Super Resolution Contest 
 
