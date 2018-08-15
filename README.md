@@ -22,7 +22,8 @@
   - 1. [x] Fix directory saving for model testing 
   - 2. [x] Implement rgb random shuffle, random in channels
   - 3. [x] Test & confirm the shuffling 
-  - * [ ] save the shuffle img patches for sanity check 
+  - 4. [ ] save the shuffle img patches for sanity check 
+  - 5. [ ] understand the function __get_patch()
   
   ##### B. DownMSE loss 
   - 1. [ ] save the LR images from SR 
