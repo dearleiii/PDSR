@@ -2,33 +2,38 @@
 
 #### Move along PSNR - Per curve
 
-#### Undergrad's tips and tricks: 
+#### 1. Undergrad's tips and tricks: 
   - 1. [ ] Mean shift per patch 
   - 2. [ ] RGB shuffle 
   
-#### DownMSE loss 
+#### 2. DownMSE loss 
 
-#### Architecture adjustment 
+#### 3. Architecture adjustment 
 
-#### Laplace form
+#### 4. Laplace form
 
-#### Handle faces directly 
+#### 5. Handle faces directly 
+
 
 ## Overall Progress 
 
 #### 08/15 Wednesday: 
+  ##### A. RGBshuffle 
   - 1. [ ] Fix directory saving for model testing 
   - 2. [ ] Implement rgb random shuffle, random in channels
   - 3. [ ] Test & confirm the shuffling 
   - * [ ] save the shuffle img patches for sanity check 
   
+  ##### B. DownMSE loss 
   - 1. [ ] save the LR images from SR 
   - 2. [ ] Implement downMSE
   
+  ##### C. others: 
   - 1. [ ] Display previous running results F_per vs. PSNR score 
   - 2. [ ] Reply Cynthia 
   - 3. [ ] Draft office desk email 
   
+  ##### Readings & theoretical analysis
   - 1. [ ] Read about PSNR theory 
   - 2. [ ] Analysis GAN loss in different scalers 
 
