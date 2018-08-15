@@ -19,9 +19,9 @@
 
 #### 08/15 Wednesday: 
   ##### A. RGBshuffle 
-  - 1. [ ] Fix directory saving for model testing 
-  - 2. [ ] Implement rgb random shuffle, random in channels
-  - 3. [ ] Test & confirm the shuffling 
+  - 1. [x] Fix directory saving for model testing 
+  - 2. [x] Implement rgb random shuffle, random in channels
+  - 3. [x] Test & confirm the shuffling 
   - * [ ] save the shuffle img patches for sanity check 
   
   ##### B. DownMSE loss 
