@@ -26,8 +26,9 @@
   - 5. [ ] understand the function __get_patch()
   
   ##### B. DownMSE loss 
-  - 1. [ ] save the LR images from SR 
-  - 2. [ ] Implement downMSE
+  - 1. [ ] Save the LR images from SR, outside program for sanity check 
+  - 2. [ ] Integrate to program, bicubic down-sampling  
+  - 3. [ ] Implement downMSE
   
   ##### C. others: 
   - 1. [ ] Display previous running results F_per vs. PSNR score 
