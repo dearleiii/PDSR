@@ -23,11 +23,15 @@
   - 2. [x] Implement rgb random shuffle, random in channels
   - 3. [x] Test & confirm the shuffling 
   - 4. [ ] save the shuffle img patches for sanity check 
+      - pre-shuffle & post-shuffle for both lr, hr 
   - 5. [ ] Check the rgb training results, compare with the previous results
   - 6. [ ] understand the function __get_patch()
   
+  ##### Mean shift per patch 
+  
   ##### B. DownMSE loss 
   - 1. [ ] Save the LR images from SR, outside program for sanity check 
+      - Decide to use BiCubic Downsampling 
   - 2. [ ] Integrate to program, bicubic down-sampling  
   - 3. [ ] Implement downMSE
   
