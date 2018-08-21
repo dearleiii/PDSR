@@ -17,13 +17,14 @@
 
 ## Overall Progress 
 
-#### 08/15 Wednesday: 
+#### 08/21 Tuesday: 
   ##### A. RGBshuffle 
   - 1. [x] Fix directory saving for model testing 
   - 2. [x] Implement rgb random shuffle, random in channels
   - 3. [x] Test & confirm the shuffling 
   - 4. [ ] save the shuffle img patches for sanity check 
-  - 5. [ ] understand the function __get_patch()
+  - 5. [ ] Check the rgb training results, compare with the previous results
+  - 6. [ ] understand the function __get_patch()
   
   ##### B. DownMSE loss 
   - 1. [ ] Save the LR images from SR, outside program for sanity check 
