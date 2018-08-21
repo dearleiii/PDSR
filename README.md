@@ -22,10 +22,11 @@
   - 1. [x] Fix directory saving for model testing 
   - 2. [x] Implement rgb random shuffle, random in channels
   - 3. [x] Test & confirm the shuffling 
-  - 4. [ ] save the shuffle img patches for sanity check 
+  - 4. [x] save the shuffle img patches for sanity check 
       - pre-shuffle & post-shuffle for both lr, hr 
-  - 5. [ ] Check the rgb training results, compare with the previous results
+  - 5. [x] Check the rgb training results, compare with the previous results
   - 6. [ ] understand the function __get_patch()
+  - 7. [ ] Analysis and understand RGB results difference in paper
   
   ##### Mean shift per patch 
   
